@@ -1,0 +1,19 @@
+{
+  "admins": [
+    {
+      "username": "Shams",
+      "password": "thisisrandom",
+      "token": ""
+    },
+    {
+      "username": "admin",
+      "password": "avadakedavra",
+      "token": ""
+    },
+    {
+      "username": "HarryP",
+      "password": "Ekspeliarmus",
+      "token": ""
+    }
+  ]
+}
